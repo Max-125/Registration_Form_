@@ -7,11 +7,5 @@ This is menu:
 ----Welcome to the registation page-----
 
 
-------------------MENU------------------
-
-
-|Press 1 to LOGIN                      |
-|Press 2 to REGISTER                   |
-|Press 3 to IF YOU FORGOT YOUR PASSWORD|
-|Press 4 to EXIT                       |
+------------------MENU------------------|Press 1 to LOGIN                      ||Press 2 to REGISTER                   ||Press 3 to IF YOU FORGOT YOUR PASSWORD||Press 4 to EXIT                       |
 |PLEASE ENTER YOUR CHOISE :            |
