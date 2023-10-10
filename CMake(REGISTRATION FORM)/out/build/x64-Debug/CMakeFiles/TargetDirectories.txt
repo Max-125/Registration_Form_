@@ -1,0 +1,5 @@
+C:/Users/Максим/Desktop/CMake(REGISTRATION FORM)/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Максим/Desktop/CMake(REGISTRATION FORM)/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Максим/Desktop/CMake(REGISTRATION FORM)/out/build/x64-Debug/CMake(REGISTRATION FORM)/CMakeFiles/CMakeTarget.dir
+C:/Users/Максим/Desktop/CMake(REGISTRATION FORM)/out/build/x64-Debug/CMake(REGISTRATION FORM)/CMakeFiles/edit_cache.dir
+C:/Users/Максим/Desktop/CMake(REGISTRATION FORM)/out/build/x64-Debug/CMake(REGISTRATION FORM)/CMakeFiles/rebuild_cache.dir
