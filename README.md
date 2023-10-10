@@ -1,5 +1,6 @@
 # Registration_Form_
-This is a simple registration form in C++ using Cmake in which you will see this menu when you run it 
+This is a simple registration form in C++ using Cmake in which you have some options : LOGIN , REGISTER , IF YOU FORGOT YOUR PASSWORD , EXIT
+This is menu:
 ----------------------------------------
 
 
